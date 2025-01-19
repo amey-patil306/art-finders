@@ -31,7 +31,7 @@ To set up and run ART Finder locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/sangramshitole07/ART-Finder.git
+git clone https://github.com/amey-patil306/art-finders
 
 Navigate to the project directory:
 
